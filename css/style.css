@@ -1,0 +1,115 @@
+.box1{
+	width: 150px;
+	height: 150px;
+	background: red;
+}
+.box2{
+	width: 150pt;
+	height: 150pt;
+	background: red;
+}
+.box3{
+	width: 9em;
+	height: 9em;
+	background: red;
+
+}
+.box4{
+	width: 9rem;
+	height: 150px;
+	background: red;
+}
+.box5{
+	width: 15%;
+	height: 150px;
+	background: red;
+}
+.block{
+	width: 15%;
+	height: 150px;
+	background: red;
+	display: block;
+}
+.inline{
+	width: 150px;
+	height: 150px;
+	background: red;
+	display: inline;
+}
+.inline_block{
+	width: 150px;
+	height: 150px;
+	background: red;
+	display: inline-block;
+}
+.color_name{
+	width: 150px;
+	height: 150px;
+	background-color: blue;
+}
+.color_hex{
+	width: 150px;
+	height: 150px;
+	background-color: #000000;
+}
+.color_rgb{
+	width: 150px;
+	height: 150px;
+	background-color: rgb(11, 22, 33);
+}
+.color_rgba{
+	width: 150px;
+	height: 150px;
+	background-color: rgba(00, 00, 00, .5);
+}
+.box6{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+}
+.box7{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	margin: 10px;
+}
+.box8{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	margin: 10px 0 0 0;
+}
+.box9{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	margin: 10px 20px 0 20px;
+}
+.box10{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	margin: 10px 0 20px 0;
+}
+.box11{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	margin: 10px 20px 0 10px;
+}
+.box12{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	padding: 10px;
+}
+.box13{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	padding: 10px;
+	border: 10px solid yellow;
+	margin: 100px;
+}
+
+
